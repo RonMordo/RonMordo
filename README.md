@@ -23,9 +23,8 @@
 
 ## 📈 GitHub Stats
 
-<You can include a GitHub stats card by using a service like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). Just add the following line and replace `<username>` with your GitHub username.>
+![exampleUser's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonMordo&show_icons=true&theme=radical)
 
-https://github-readme-stats.vercel.app/api?username=<ronmordo1@outlook.com>&show_icons=true&theme=radical
 
 ## 📫 Let's Connect!
 
