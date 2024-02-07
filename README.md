@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **private projects and faculty IoT AI project**
 - 🌱 I’m currently learning **as a BSc second-year computer science student**
-- 👯 I’m looking to collaborate on **C/C++ projects**
+- 👯 I’m looking to collaborate on **C/C++/Python projects**
 - 🤔 I’m looking for help with **how to start contributing to open-source projects and work cooperatively**
 - 💬 Ask me about **LeetCode or problem solving related to computer science**
 - 📫 How to reach me: **ronmordo1@outlook.com**
