@@ -28,4 +28,4 @@
 ## 📫 Let's Connect!
 
 - LinkedIn: **https://www.linkedin.com/in/ron-mordokhovich-877a33234/**
-- Portfolio: **[Ron Mordokhovich](https://ronmordukhovich.com)**
+- Portfolio: **[Ron Mordokhovich](http://ronmordukhovich.com)**
