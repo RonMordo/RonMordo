@@ -112,6 +112,6 @@
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronmordo&show_icons=true&locale=en&layout=compact" alt="ronmordo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonMordo&layout=compact&hide_repo=littering_detection_rpi5-hailo8L,rock_paper_scissors_visual_app" alt="ronmordo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronmordo&show_icons=true&locale=en" alt="ronmordo" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronmordo&" alt="ronmordo" /></p>
