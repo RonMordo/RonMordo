@@ -1,37 +1,59 @@
 # Hi there, I'm Ron 👋
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 🔭 I’m currently working on **side projects and faculty IoT AI project**
-- 🌱 I’m currently learning **as a BSc third-year computer science student**
-- 👯 I’m looking to collaborate on **C/C++/Python projects**
-- 🤔 I’m looking for help with **contributing to open-source projects and work cooperatively**
-- 💬 Ask me about **LeetCode, application design, system integration or problem solving related to computer science**
-- 📫 How to reach me: **ronmordo1@outlook.com**
+- 🎓 **Computer Science graduate** from Holon Institute of Technology  
+- 💻 Passionate about **full-stack development, backend architecture, and AI/ML systems**  
+- 🔭 Currently working on projects like **MatchUp** (social hobby-matching platform with maps, events & reviews) and **BitBasket** (fullstack e-commerce)  
+- 🌱 Actively learning **React, TypeScript, Node.js, Express, Prisma, MongoDB/Postgres, and DevOps (Docker, AWS)**  
+- 🤝 Open to collaboration on **TypeScript/Node.js, React, and AI/ML projects**  
+- 💬 Ask me about **system design, data modeling, scalable backend APIs, Prisma, and machine learning integrations**  
+- 📫 Reach me at: **ronmordo1@outlook.com**  
 
-## 🛠 Skills
+---
 
-- Languages: **C, C++, C#, Python, HTML, CSS, JavaScript**
-- Frameworks: **Flask, .NET, GStreamer, PyTorch, OpenCV**
-- Tools & Technologies: **Git, Linux, Virtual Environments, Docker, Cloud servers**
-- Code editors: **VScode, Visual Studio, PyCharm, Jupyter Notebook, Vim**
-- Databases: **MySQL, PostgreSQL, MongoDB**
+## 🛠 Tech Stack  
 
-## 🔥 My Projects
+**Languages:** TypeScript, JavaScript, C, C++, C#, Python, SQL  
+**Frontend:** React (Vite, Tailwind, Shadcn UI), Redux Toolkit, React Query  
+**Backend:** Node.js, Express, Prisma ORM, Zod Validation, Clerk Auth  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**DevOps / Tools:** Docker, Git  
+**AI / ML:** PyTorch, OpenCV, GStreamer, YOLOv5, Pandas, Scikit-learn  
+**Other Tools:** Git, Linux, VSCode, PyCharm, Postman, Jira  
 
-- GStreamer detection pipeline: This project implements a video processing pipeline using **GStreamer** and a **YOLOv5** object detection model. It processes video files or live camera feeds, performs object detection on each frame, and displays annotated results in real-time.
-- housing pricing regression: A logistic regression model which taking as an input data of housing prices and predicts future prices.
-- Hospital administrative desktop application using .NET framework and C#.
-- IoT AI: Anomaly detector for campus class sensors using Anaconda, Jupyter Notebook, and the pandas library in Python.
-- Portfolio Website: Used HTML, CSS, and JS for building, FileZilla for file transfer, and DigitalOcean for deployment.
-- Stock Predictor: Used ML algorithms and logic to estimate if a stock will go up or down the next day.
-- CLI chat room: Used Python to create server-client scripts. Clients can create chat rooms, join, list, and leave chat rooms on different networks.
+---
 
-## 📈 GitHub Stats
+## 🔥 Highlight Projects  
 
-![RonMordo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonMordo&show_icons=true&theme=radical)
+- **MatchUp**  
+  A **social hobby-matching platform** with Google Maps integration, advanced markers, reviews, and events.  
+  *Tech:* React + Vite + Tailwind + Shadcn, Node.js + Express + TypeScript, MongoDB/Mongoose, Clerk Auth, Render/Netlify  
 
-## 📫 Let's Connect!
+- **BitBasket (Fullstack E-Commerce)**  
+  A shopping platform with cart, favorites, auth, and Supabase backend  
 
-- LinkedIn: **https://www.linkedin.com/in/ron-mordokhovich-877a33234/**
-- Portfolio: **[Ron Mordokhovich](http://ronmordukhovich.com)**
+- **Lezichram**  
+  An **Instagram-based memorial app** that aggregates posts, uploads to Supabase storage, and stores metadata in Postgres  
+
+- **Object Detection Pipeline**  
+  Built with **GStreamer + YOLOv5** to detect humans/objects in live streams and videos, including cropping & face recognition  
+
+- **Rock-Paper-Scissors ML**
+  An interactive **ML project** using computer vision and deep learning to recognize hand gestures (rock, paper, or scissors) in real time via webcam. Built with **Python, OpenCV, and a trained ML model**.
+
+---
+
+## 📈 GitHub Stats  
+
+![RonMordo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonMordo&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Let's Connect!  
+
+- 💼 LinkedIn: **[Ron Mordokhovich](https://www.linkedin.com/in/ron-mordokhovich-877a33234/)**  
+
+---
+
+⚡ *I love solving complex problems, building clean scalable systems, and turning ideas into production-ready products.*  
