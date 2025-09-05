@@ -21,10 +21,8 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-- 💼 LinkedIn: **[Ron Mordokhovich](https://www.linkedin.com/in/ron-mordokhovich-877a33234/)**  
-</p>
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ron%20Mordokhovich-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ron-mordokhovich-877a33234/)
 
 ---
 
