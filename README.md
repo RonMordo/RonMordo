@@ -92,7 +92,7 @@
 
 ---
 
-## 🔥 Highlight Projects  
+## Highlight Projects  
 
 - **MatchUp**  
   A **social hobby-matching platform** with Google Maps integration, advanced markers, reviews, and events.  
